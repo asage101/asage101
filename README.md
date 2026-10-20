@@ -15,19 +15,21 @@ My academic interests focus on GeoAI, spatial modelling, and the development of 
 
 ## Selected Projects
 
-### [Wildfire Propagation Modelling](https://github.com/asage101)
+### [Wildfire Propagation Modelling](https://github.com/asage101/Wildfire-Propagation-Modelling)
 Modelling historical wildfire spread using multicriteria evaluation and cellular automata.
 
-### [Avalanche VGI Research](https://github.com/asage101)
+### [Avalanche VGI Research](https://github.com/asage101/Avalanche-VGI-Research)
 Evaluating the reliability and geographic biases of crowdsourced avalanche reports through literature review and spatial clustering.
 
-### [XrayAtlas](https://github.com/asage101)
+### [XrayAtlas](https://github.com/asage101/XrayAtlas)
 Developing and improving convolutional neural network classification for X-ray image analysis.
 
-### [Ontario Road Connectivity](https://asage101.github.io/ontario-road-connectivity/)
+### [Ontario Road Connectivity](https://github.com/asage101/Ontario-Road-Connectivity)
 An interactive web GIS application visualizing cellular coverage along Ontario's road network.
 
-### [Multiplayer Minesweeper Race](https://github.com/asage101)
+**[Explore the Live Map](https://asage101.github.io/ontario-road-connectivity/)**
+
+### [Multiplayer Minesweeper Race](https://github.com/asage101/Multiplayer_Minesweeper)
 A Python-based multiplayer application using TCP sockets, multithreading, and client-server communication.
 
 ## Technical Skills
