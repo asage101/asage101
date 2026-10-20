@@ -27,8 +27,6 @@ Developing and improving convolutional neural network classification for X-ray i
 ### [Ontario Road Connectivity](https://github.com/asage101/Ontario-Road-Connectivity)
 An interactive web GIS application visualizing cellular coverage along Ontario's road network.
 
-**[Explore the Live Map](https://asage101.github.io/ontario-road-connectivity/)**
-
 ### [Multiplayer Minesweeper Race](https://github.com/asage101/Multiplayer_Minesweeper)
 A Python-based multiplayer application using TCP sockets, multithreading, and client-server communication.
 
