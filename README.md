@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**asage101/asage101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alina!
 
-Here are some ideas to get you started:
+I'm a Geographic Information Science graduate from Simon Fraser University with a background in computer science and an interest in computational approaches to geographic and environmental problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic interests focus on GeoAI, spatial modelling, and the development of computational methods for analyzing geographic information. I'm particularly interested in applications involving natural hazards, environmental modelling, and understanding interactions between people and their environments.
+
+## Research Interests
+
+- Geographic Artificial Intelligence (GeoAI)
+- Computational spatial modelling and simulation
+- Machine learning and computer vision
+- Natural hazard assessment and environmental applications
+- Spatial data analysis and GIScience
+
+## Selected Projects
+
+### [Wildfire Propagation Modelling](https://github.com/asage101)
+Modelling historical wildfire spread using multicriteria evaluation and cellular automata.
+
+### [Avalanche VGI Research](https://github.com/asage101)
+Evaluating the reliability and geographic biases of crowdsourced avalanche reports through literature review and spatial clustering.
+
+### [XrayAtlas](https://github.com/asage101)
+Developing and improving convolutional neural network classification for X-ray image analysis.
+
+### [Ontario Road Connectivity](https://asage101.github.io/ontario-road-connectivity/)
+An interactive web GIS application visualizing cellular coverage along Ontario's road network.
+
+### [Multiplayer Minesweeper Race](https://github.com/asage101)
+A Python-based multiplayer application using TCP sockets, multithreading, and client-server communication.
+
+## Technical Skills
+
+**Programming:** Python, JavaScript, C/C++, Java, R, SQL
+
+**GIS & Spatial Analysis:** ArcGIS Pro, QGIS, ArcGIS Online, Google Earth Engine, Leaflet
+
+**Machine Learning & Computer Vision:** TensorFlow, PyTorch, OpenCV
+
+**Development:** Git, GitHub, Jupyter Notebook, Linux
