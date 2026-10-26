@@ -38,4 +38,4 @@ A Python-based multiplayer application using TCP sockets, multithreading, and cl
 
 **Machine Learning & Computer Vision:** TensorFlow, PyTorch, OpenCV
 
-**Development:** Git, GitHub, Jupyter Notebook, Linux
+**Development:** Git, GitHub, Jupyter Notebook, Linux, Google colab
