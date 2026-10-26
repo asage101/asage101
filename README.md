@@ -32,7 +32,7 @@ A Python-based multiplayer application using TCP sockets, multithreading, and cl
 
 ## Technical Skills
 
-**Programming:** Python, JavaScript, C/C++, Java, R, SQL
+**Programming:** Python, JavaScript, C/C++, Java, R, HTML/CSS, SQL, MATLAB
 
 **GIS & Spatial Analysis:** ArcGIS Pro, QGIS, ArcGIS Online, Google Earth Engine, Leaflet
 
